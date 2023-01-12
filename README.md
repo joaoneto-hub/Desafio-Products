@@ -9,6 +9,15 @@ Para execultar esta API você precisa ter configurado:
 A aplicação foi desenvolvida em NodeJS e express usando o banco de dados MongoDB
 
 
+Para ter acesso ao banco vocẽ precisar criar um arquivo ```bash 
+.env 
+```
+E ter as informações do arquivo 
+```bash
+.env.example
+```
+
+
 ```bash
 # Clone o repositório do projeto
 $ git clone https://github.com/joaoneto-hub/Desafio-Products.git
